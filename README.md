@@ -1,2 +1,1 @@
-# Hospital
-Hospital_game
+Hospital_Game
