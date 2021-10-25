@@ -10,7 +10,7 @@ Material:
   m_Name: Emissions
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_ShaderKeywords: _EMISSION
-  m_LightmapFlags: 5
+  m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 2000
@@ -107,12 +107,12 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.8000001, g: 0.75648487, b: 0.7229187, a: 1}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 0.8000001, g: 0.75648487, b: 0.7229187, a: 1}
-    - _EmissionColor: {r: 4.9999995, g: 3.2927814, b: 1.546371, a: 4.9999995}
+    - _EmissionColor: {r: 0.6649284, g: 1.825311, b: 2.1686893, a: 4.9999995}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &9168828494045933812
+--- !u!114 &4141683291256787197
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
